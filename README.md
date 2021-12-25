@@ -2,17 +2,23 @@
 
 Template to build a versatile blog forked from [jeffreytse](jeffreytse/jekyll-theme-yat)
 
-## Customization
+## Personalize the website
 
-To customize the website go to 
-
-1. [_data/defaults.yml](_data/defaults.yml) and change the values for
+1. Go to [_data/defaults.yml](_data/defaults.yml) and change the values for
     - heading
     - subheading
-2. To add further options for automatic translations go to [_data/translate_langs.yml](_data/translate_langs.yml) and add additional entries.
+2. Go to [_data/translate_langs.yml](_data/translate_langs.yml) to customize the options for automatic translations by adding or removing entries.
 3. To change the background image
-    1. upload the file (ideally .jpeg) to [assets/images/banners/](assets/images/banners/)
+    1. upload the file (ideally *.jpeg*) to [assets/images/banners/](assets/images/banners/)
     2. change the entry for *banner* in [index.html](index.html) such that it points to your image of choice
+4. Go to [_config.yml](_config.yml) and change the values for
+    1. title
+    2. email
+    3. author
+    4. copyright
+    5. description
+    6. favicon
+
 
 ## License
 
