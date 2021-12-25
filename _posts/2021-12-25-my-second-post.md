@@ -11,4 +11,4 @@ tags: [test]
 I would like to test whether it works the way I hope it does
 
 
-![datacampe certification](assets/images/banners/datacamp_certificate_dummy.jpg)
+![datacampe certification](assets/images/banners/Rainer_bunt.png)
