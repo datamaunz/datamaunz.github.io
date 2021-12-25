@@ -9,3 +9,6 @@ tags: [test]
 ## This is just another test
 
 I would like to test whether it works the way I hope it does
+
+
+![datacampe certification](assets/images/banners/datacamp_certificate_dummy.jpg)
