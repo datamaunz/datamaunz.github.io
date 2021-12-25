@@ -18,6 +18,7 @@ Template to build a versatile blog forked from [jeffreytse](jeffreytse/jekyll-th
     4. copyright
     5. description
     6. favicon
+5. [good guide](https://www.markdownguide.org/basic-syntax/)
 
 
 ## License
