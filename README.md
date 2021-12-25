@@ -6,9 +6,11 @@ Template to build a versatile blog forked from [jeffreytse](jeffreytse/jekyll-th
 
 To customize the website go to 
 
-1. [_data](_data/defaults.yml) and change the values for
+1. [_data/defaults.yml](_data/defaults.yml) and change the values for
     - heading
     - subheading
+2. To add further options for automatic translations go to [_data/translate_langs.yml](_data/translate_langs.yml) and add additional entries.
+3. 
 
 ## License
 
