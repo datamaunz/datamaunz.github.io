@@ -12,7 +12,7 @@ To customize the website go to
 2. To add further options for automatic translations go to [_data/translate_langs.yml](_data/translate_langs.yml) and add additional entries.
 3. To change the background image
     1. upload the file (ideally .jpeg) to [assets/images/banners/](assets/images/banners/)
-    2. change the entry for *banner* in to [index.html](index.html) to point to your image of choice
+    2. change the entry for *banner* in [index.html](index.html) such that it points to your image of choice
 
 ## License
 
