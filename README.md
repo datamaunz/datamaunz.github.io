@@ -4,11 +4,11 @@ Template to build a versatile blog forked from [jeffreytse](jeffreytse/jekyll-th
 
 ## Customization
 
-To customize the website you need to change the items in [_data](_data/defaults.yml) 
+To customize the website go to 
 
-
-
-
+1. [_data](_data/defaults.yml) and change the values for
+    - heading
+    - subheading
 
 ## License
 
