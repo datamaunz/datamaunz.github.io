@@ -10,7 +10,9 @@ To customize the website go to
     - heading
     - subheading
 2. To add further options for automatic translations go to [_data/translate_langs.yml](_data/translate_langs.yml) and add additional entries.
-3. 
+3. To change the background image
+  a) upload the file (ideally .jpeg) to [assets/images/banners/](assets/images/banners/)
+  b) change the entry for banner in to [index.html](index.html) to point to your image of choice
 
 ## License
 
