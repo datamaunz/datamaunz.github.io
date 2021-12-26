@@ -6,9 +6,9 @@ categories: images
 tags: [test]
 ---
 
-## This is just another test
+## Introduction to Python
 
-I would like to test whether it works the way I hope it does
+This post is meant to summarize some of the key concepts I have learned in the course *Introduction to Python*
 
 
 ![datacamp certification](/assets/images/banners/datacamp_certificate_dummy.jpg)
