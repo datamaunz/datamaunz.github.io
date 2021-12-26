@@ -20,6 +20,17 @@ Template to build a versatile blog forked from [jeffreytse](jeffreytse/jekyll-th
     6. favicon
 5. Got to [about.md](about.md) and tell the world who you are
     1. To do so, look up the markdown syntax in some [guide](https://www.markdownguide.org/basic-syntax/)
+6. Go to [_posts](_posts) and add you first post
+    1. the file needs to have a markdown extension (*.md*)
+    2. the file name needs to follow the format year-month-day-filename.md (e.g. 2021-12-24-filename.md)
+    3. in the head of the file, you need to provide values to the following entries (the value for layout needs to be post):
+        1. layout: post
+        2. title: Markdown Guide
+        3. subtitle: Resources to work with Markdown
+        4. categories: markdown
+        5. tags: [guide, markdown]
+    4. Write the content of the post in markdown
+
 
 
 ## License
