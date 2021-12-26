@@ -1,8 +1,8 @@
 ---
 layout: post
-title: What a nice test
+title: Introduction to Python
 subtitle: Each post also has a subtitle
-categories: images
+categories: [Python, Intro]
 tags: [test]
 ---
 
