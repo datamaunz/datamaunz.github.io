@@ -18,7 +18,8 @@ Template to build a versatile blog forked from [jeffreytse](jeffreytse/jekyll-th
     4. copyright
     5. description
     6. favicon
-5. [good guide](https://www.markdownguide.org/basic-syntax/)
+5. Got to [about.md](about.md) and tell the world who you are
+    1. To do so, look up the markdown syntax in some [guide](https://www.markdownguide.org/basic-syntax/)
 
 
 ## License
