@@ -1,6 +1,6 @@
 ## Purpose
 
-Template to build a versatile blog forked from [jeffreytse](jeffreytse/jekyll-theme-yat)
+Template to build a versatile blog forked from [jeffreytse](https://github.com/jeffreytse/jekyll-theme-yat)
 
 ## Personalize the website
 
