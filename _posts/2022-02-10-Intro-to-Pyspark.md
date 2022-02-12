@@ -1,9 +1,9 @@
 --- 
 layout: post 
-title: Intro to Airflow
-subtitle: Notes from Mike Metzger's Course
-categories: Airflow
-tags: [Airflow, Intro]
+title: Intro to Pyspark
+subtitle: Notes from DataCamp Course
+categories: Pyspark
+tags: [Pyspark, Intro]
 ---
 
 Most of the content (and all images if not specified differently) is taken from [Introduction to Pyspark](https://campus.datacamp.com/courses/introduction-to-pyspark) on DataCamp.
