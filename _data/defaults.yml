@@ -1,4 +1,4 @@
 home:
   heading: "Datamaunz"
   subheading: "Loving cats and data"
-  banner: "assets/images/banners/kitty.jpeg"
+  banner: "/assets/images/banners/kitty.jpeg"
