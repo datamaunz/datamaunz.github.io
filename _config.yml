@@ -40,7 +40,7 @@ author: Datamaunz
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "Unpublished Work (cleft) {currentYear} {author}"
 
 description: "If you love cats and data, you've come to the right place."
 
