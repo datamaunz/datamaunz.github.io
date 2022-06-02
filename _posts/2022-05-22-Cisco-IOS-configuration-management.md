@@ -2,7 +2,7 @@
 layout: post 
 title: Cisco IOS configuration management
 subtitle: running config & startup config
-categories: Cisco IOS Operating System
+categories: Cisco-IOS-Operating-System
 tags: [ccna, networking, ios, running config, startup config]
 ---
 

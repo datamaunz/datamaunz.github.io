@@ -2,7 +2,7 @@
 layout: post 
 title: TCP/IP Stack
 subtitle: Basic Characteristics
-categories: Cisco IOS Operating System
+categories: Cisco-IOS-Operating-System
 tags: [CCNA, Networking, TCP-IP]
 ---
 

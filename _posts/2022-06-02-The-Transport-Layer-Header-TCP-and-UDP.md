@@ -2,7 +2,7 @@
 layout: post 
 title: The Transport Layer Header, TCP and UDP
 subtitle: Deepdive
-categories: OSI Layer 4 - The Transport Layer
+categories: OSI-Layer-4-Transport-Layer
 tags: [ccna, networking, transport layer, ports, tcp, udp]
 ---
 

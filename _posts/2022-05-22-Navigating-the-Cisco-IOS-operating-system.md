@@ -2,7 +2,7 @@
 layout: post 
 title: Navigating the Cisco IOS operating system
 subtitle: Commandline
-categories: Cisco IOS Operating System
+categories: Cisco-IOS-Operating-System
 tags: [ccna, networking, ios, commandline]
 ---
 
