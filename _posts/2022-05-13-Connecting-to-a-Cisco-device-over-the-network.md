@@ -2,7 +2,7 @@
 layout: post 
 title: Connecting to a Cisco Device over the Network (1)
 subtitle: Using Putty
-categories: Networking
+categories: Cisco IOS Operating System
 tags: [CCNA, Networking, Putty]
 ---
 

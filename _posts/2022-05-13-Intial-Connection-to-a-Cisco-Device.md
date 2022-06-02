@@ -2,7 +2,7 @@
 layout: post 
 title: Intial Connection to a Cisco Device
 subtitle: Direct Connection via Console Cable
-categories: networking
+categories: Cisco IOS Operating System
 tags: [ccna, networking, console cable]
 ---
 

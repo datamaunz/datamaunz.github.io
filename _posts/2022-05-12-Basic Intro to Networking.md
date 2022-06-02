@@ -2,7 +2,7 @@
 layout: post 
 title: Intro to Networking
 subtitle: Basic Characteristics
-categories: Networking
+categories: Host to Host Communications
 tags: [CCNA, Networking, Intro]
 ---
 
