@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: TCP/IP Stack
-subtitle: Basic Characteristics
+subtitle: Notes from Neil Anderson's CCNA Course
 categories: CCNA-2-Cisco-IOS-Operating-System
 tags: [CCNA, Networking, TCP-IP]
 ---

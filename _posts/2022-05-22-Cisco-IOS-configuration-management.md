@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: Cisco IOS configuration management
-subtitle: running config & startup config
+subtitle: Notes from Neil Anderson's CCNA Course
 categories: CCNA-2-Cisco-IOS-Operating-System
 tags: [ccna, networking, ios, running config, startup config]
 ---

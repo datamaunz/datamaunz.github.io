@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: Intro to Networking
-subtitle: Basic Characteristics
+subtitle: Notes from Neil Anderson's CCNA Course
 categories: CCNA-1-Host-to-Host-Communications
 tags: [CCNA, Networking, Intro]
 ---
