@@ -2,7 +2,7 @@
 layout: post 
 title: OSI Reference Model
 subtitle: Basic Characteristics
-categories: Host-to-Host-Communications
+categories: CCNA-1-Host-to-Host-Communications
 tags: [CCNA, Networking, OSI]
 ---
 
