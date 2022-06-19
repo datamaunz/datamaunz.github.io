@@ -2,7 +2,7 @@
 layout: post 
 title: Class B and C IP Addresses
 subtitle: Notes from Neil Anderson's CCNA Course
-categories: IP Address Classes
+categories: CCNA-5-IP-Address-Classes
 tags: [ccna, networking, class B, class C, IP, IPv4]
 ---
 
