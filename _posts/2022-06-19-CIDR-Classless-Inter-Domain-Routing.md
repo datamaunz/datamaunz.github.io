@@ -2,7 +2,7 @@
 layout: post 
 title: CIDR Classless Inter-Domain Routing
 subtitle: Notes from Neil Anderson's CCNA Course
-categories: Subnetting
+categories: CCNA-6-Subnetting
 tags: [ccna, networking, CIDR, route summarisation]
 ---
 
