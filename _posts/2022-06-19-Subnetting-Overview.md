@@ -3,7 +3,7 @@ layout: post
 title: Subnetting Overview
 subtitle: Notes from Neil Anderson's CCNA Course
 categories: CCNA-6-Subnetting
-tags: [ccna, networking, subnetting]
+tags: [ccna, networking, subnetting, number of networks, number of hosts]
 ---
 
 ## Scenario
